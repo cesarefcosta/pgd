@@ -9,14 +9,12 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  },
-  "regirstrytoken": {
     "authenticated": true,
     "created": "2019-03-26 18:43:30",
     "expiration": "2019-03-26 18:44:30",
     "accessToken": "zyAAAAciOiJS1zI2NiIsInR4cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6WyI1NTExOTcyNTk5MjY4IiwiNTUxMTk3MjU5OTI2OCJdLCJqdGkiOiI2YzdhYWEzK88L9nnPRcJJ-Rr9Zfj7YrsRZfG1DwZW2sOVwrnRugyIVNPZFcauN1ZaWDbbEPTqvyQxw4pJIWK17hRMO4p5WUejQFNWBsnXysn6ZBDWG_boa5k7yLnK0KgdGhZuzIioYHscj8JXCOSlF408-6r1sygBQscvoXEp2g4zyVdTFg35x14y7JPbaHec9W5gDRYSO2Rkn_k0-eEOqw",
     "refreshToken": "30e41c8c2f7b45889609fa54b060b5e9",
+    "name": "typicode"
     "message": "OK"
   }
 }

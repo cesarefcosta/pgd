@@ -11,8 +11,9 @@
   ],
   "profile": {
     "name": "typicode",
-    "lastname": "bla"
-  }
+    "lastname": "bla",
+    "autenticated": true
+  },
   "registry": {
     "name": "typicode",
     "lastname": "bla"
